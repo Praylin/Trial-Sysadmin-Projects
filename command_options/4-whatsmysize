@@ -1,2 +1,2 @@
 #!/bin/bash
-du -hsc . /tmp/
+du -hsc . /tmp
